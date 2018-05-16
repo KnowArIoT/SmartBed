@@ -1,0 +1,16 @@
+#!/bin/bash
+
+WHEN="now"
+
+if [[ ! -z ${2} ]]; then
+ echo "will play at $2"
+ WHEN=$2
+fi
+
+SPATH="~/ariot/BedBackend/sound/"
+
+echo "$WHEN $1"
+
+echo "arg file to play from ${SPATH}: $1, arg2 when: $2 now eller tt:mm"
+
+echo "cvlc ${SPATH}${1}" | at $WHEN

@@ -1,0 +1,44 @@
+[02008720] pulse audio output error: PulseAudio server connection failure: Connection refused
+[02029b30] core interface error: no suitable interface module
+[01f77940] core libvlc error: interface "globalhotkeys,none" initialization failed
+[01f77940] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[0202a700] qt4 interface error: Could not connect to X server
+[0202a700] skins2 interface error: cannot initialize OSFactory
+[0202a700] [cli] lua interface: Listening on host "*console".
+VLC media player 2.2.6 Umbrella
+Command Line Interface initialized. Type `help' for help.
+> Shutting down.
+[0202a700] [cli] lua interface: Requested shutdown.
+[002fe958] pulse audio output error: PulseAudio server connection failure: Connection refused
+[0031fb28] core interface error: no suitable interface module
+[0026d918] core libvlc error: interface "globalhotkeys,none" initialization failed
+[0026d918] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[003183b0] qt4 interface error: Could not connect to X server
+[003183b0] skins2 interface error: cannot initialize OSFactory
+[003183b0] [cli] lua interface: Listening on host "*console".
+VLC media player 2.2.6 Umbrella
+Command Line Interface initialized. Type `help' for help.
+> Shutting down.
+[003183b0] [cli] lua interface: Requested shutdown.
+[0179e958] pulse audio output error: PulseAudio server connection failure: Connection refused
+[017bfb28] core interface error: no suitable interface module
+[0170d918] core libvlc error: interface "globalhotkeys,none" initialization failed
+[0170d918] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[017c1888] qt4 interface error: Could not connect to X server
+[017c1888] skins2 interface error: cannot initialize OSFactory
+[017c1888] [cli] lua interface: Listening on host "*console".
+VLC media player 2.2.6 Umbrella
+Command Line Interface initialized. Type `help' for help.
+> Shutting down.
+[017c1888] [cli] lua interface: Requested shutdown.
+[00faf958] pulse audio output error: PulseAudio server connection failure: Connection refused
+[00fd0b28] core interface error: no suitable interface module
+[00f1e918] core libvlc error: interface "globalhotkeys,none" initialization failed
+[00f1e918] core libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+[00fd2888] qt4 interface error: Could not connect to X server
+[00fd2888] skins2 interface error: cannot initialize OSFactory
+[00fd2888] [cli] lua interface: Listening on host "*console".
+VLC media player 2.2.6 Umbrella
+Command Line Interface initialized. Type `help' for help.
+> Shutting down.
+[00fd2888] [cli] lua interface: Requested shutdown.
